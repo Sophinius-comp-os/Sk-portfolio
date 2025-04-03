@@ -38,7 +38,7 @@ git clone https://github.com/sophinius-comp-os/Sk-portfolio.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.x.com/Dev_Koech).
 
 ### License
 
